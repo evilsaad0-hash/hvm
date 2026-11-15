@@ -22,11 +22,11 @@ apt update && apt upgrade -y
 apt install python3 python3-pip python3-venv unzip -y
 
 ### 3. Cloneing 
+``
+git clone https://github.com/evilsaad0-hash/hvm.git
 
-`` git clone https://github.com/evilsaad0-hash/hvm.git
-
-cd hvm ``
-
+cd hvm 
+``
 ### 3. Run the installer
 
 ```bash
